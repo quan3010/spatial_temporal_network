@@ -1,7 +1,7 @@
 spatial_temporal_network
 ==============================
 
-This is a project for modeling student interactions on campus using WiFi location data
+This is a project for modeling student interactions on campus using WiFi location data. Please note that this is still under development.
 
 Project Organization
 ------------
